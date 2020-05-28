@@ -26,6 +26,7 @@ public class step_search extends Base{
 	    //driver = Base.getDriver();
 		getDriver();
 		System.out.println("Driver launched successfully");
+		System.out.println("Driver launched successfully");
 		
         
     }

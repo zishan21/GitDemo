@@ -10,6 +10,7 @@ public class Hooks extends Base{
 	@After()
 	public void after() {
 		driver.quit();
+		System.out.println("Driver quit successfully");
 	}
 
 
