@@ -42,6 +42,14 @@ public class step_search extends Base{
     	driver.findElement(By.className("search-keyword")).sendKeys(strArg1);
     	Thread.sleep(5000);
 
+    	System.out.println("Driver launched successfully");
+		System.out.println("Driver launched successfully");
+		
+		System.out.println("Driver launched successfully");
+		System.out.println("Driver launched successfully");
+		
+		System.out.println("Driver launched successfully");
+		System.out.println("Driver launched successfully");
         
     }
 
